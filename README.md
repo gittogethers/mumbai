@@ -10,14 +10,12 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 [![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-mumbai)
 
 
--------------
-
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Mumbai group](https://www.meetup.com/gittogether-mumbai) on Meetup.
 - **Attend GitTogethers**: Register for upcoming events using the links provided above.
 - **Become a speaker**: Submit your session proposal at [gh.io/cfs](https://gh.io/cfs)
 - **Showcase your project**: Apply for our Community Spotlight at [gh.io/spotlight](https://gh.io/spotlight)
 
-## Community Leader
+### Community Leader
 
 <img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP
 
