@@ -9,6 +9,7 @@
 - 11:10 AM to 11:30 AM: **Break and Networking**
 - 11:30 AM to 11:35 AM: **Community Spotlight**
 - 11:35 AM to 12:05 PM: Container Based VDI by [Arun Mathai](https://github.com/arunmathaisk), SDE @Frappe Cloud
+- [Flashdesk](https://github.com/arunmathaisk/flashdesk)
 - 12:05 AM to 12:30 PM: **Quiz, Networking and Event Closing**
 
 -----------
