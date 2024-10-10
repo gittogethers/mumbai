@@ -5,7 +5,7 @@
 - 9:30 AM to 10:00 AM: **Registration and Networking**
 - 10:00 AM to 10:10 AM: **Welcome Note**
 - 02:00 PM to 02:40 PM: **Github Actions in Action (http://susmitpy.github.io/talks/github_actions/)**
-- 02:40 PM to 3:10 PM: **Internal Developer Platform** by [Pratik Parikh](https://github.com/pratik-parikh01), Senior Software Engineer @Falkonry
+- 02:40 PM to 3:10 PM: **Internal Developer Platform** by [Pratik Parikh](https://github.com/pratik-parikh01), Senior Software Engineer @Falkonry. Presentation [here](https://docs.google.com/presentation/d/1rGaLMHhpcO-jz8YSEIcWTh-cLs5hvwquSSr73ugwJA4/edit?usp=sharing)
 - 11:10 AM to 11:30 AM: **Break and Networking*
 - 06:50 PM to 07:00 PM: **Community Spotlight**
     * LocalFileTransfer (https://github.com/susmitpy/LocalFileTransfer)
