@@ -21,6 +21,6 @@
 
 **Date:** Saturday 5th October 2024
 
-**Time:** 9:30 AM to 12:30 PM IST
+**Time:** 2:00 PM to 5:30 PM IST
 
 **Venue:** [Microsoft Corporation India Pvt. Ltd](https://maps.app.goo.gl/1FhuCQERoZNFa981A)., Windsor, 4th Floor, Central Salsette Tramway Road (CST Road), Kalina, Santacruz (East), Mumbai, Maharashtra 400098, India.
