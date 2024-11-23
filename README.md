@@ -38,11 +38,23 @@ Join us in shaping the future of software development and connecting with Mumbai
 
 ## Upcoming Events
 
-Coming soon...watch this space.
+### GitTogether Mumbai - 7th December 2024
+
+Watch this space. More details coming soon!
+
+
+
 
 -------------
 
 ## Past Events
+
+### GitTogether Mumbai - 16th November 2024
+
+- [Event Link](https://www.meetup.com/gittogether-mumbai/events/304195856)
+- [Event Resources](./GitTogether%20Mumbai%202024-11-16)
+
+[![September 2024 Event](/assets/2024-10-05.png)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
 
 ### GitTogether Mumbai - 5th October 2024
 
