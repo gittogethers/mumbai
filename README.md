@@ -40,26 +40,7 @@ Join us in shaping the future of software development and connecting with Mumbai
 
 ### GitTogether Mumbai - 18th January 2025
 
-- [Event Link](https://www.meetup.com/gittogether-mumbai/events/305678912/)
-- [Event Resources](./GitTogether%20Mumbai%202025-01-18)
-
-[![January 2025 Event](/assets/2025-01-18.jpg)](https://www.meetup.com/gittogether-mumbai/events/305678912/)
-
-**Agenda**
-
-- 3:00 to 3:10 PM: Welcome Note
-- 3:10 to 3:40 PM: GitHub Copilot: The Future of AI-Powered Development by [Rohit Sharma](https://github.com/rohitsharma), Senior Developer Advocate at GitHub
-- 3:40 to 4:10 PM: Building Secure Applications with GitHub Advanced Security by [Anjali Mehta](https://github.com/anjalimehta), Security Engineer at Google
-- 4:10 to 4:30 PM: Break and Networking
-- 4:30 to 5:00 PM: Community Spotlight
-- 5:00 to 5:30 PM: GitHub Actions: Automating Your Workflow by [Karan Patel](https://github.com/karanpatel), DevOps Engineer at Amazon
-- 5:30 to 6:00 PM: Quiz, Networking and Event Closing
-
-**Date:** Saturday 18th January 2025
-
-**Time:** 3:00 PM to 6:00 PM IST
-
-**Venue:** [Microsoft Corporation India Pvt. Ltd](https://maps.app.goo.gl/1FhuCQERoZNFa981A)., Windsor, 4th Floor, Central Salsette Tramway Road (CST Road), Kalina, Santacruz (East), Mumbai, Maharashtra 400098, India.
+Watch this space for updates!
 
 -------------
 
