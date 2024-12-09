@@ -9,7 +9,7 @@
 - 2:45 to 3:05 PM: **Github actions to deploy infra as code** by [Bhaumik Tandan](https://github.com/Bhaumik-Tandan), Cloud Engineer at HTCD
 - 3:10 to 3:30 PM: **Break and Networking**
 - 3:30 to 4:00 PM: **How to build a Developer profile with Jekyll** over GitHub pages by [Vidhya Venkatesan](https://github.com/vidhyav656), Frontend Liferay Developer, Aarav Global Products & Services
-- 4:00 to 4.30 PM: **GitHub Universe 2024 - Recap** by [Augustine Correa](https://github.com/vidhyav656), Microsoft MVP for Developer Technologies & AI Platform
+- 4:00 to 4.30 PM: **GitHub Universe 2024 - Recap** by [Augustine Correa](https://github.com/indcoder), Microsoft MVP for Developer Technologies & AI Platform
 - 4.45 to 5.00 PM: Spotlight - [Visage](https://github.com/HackerspaceMumbai/Visage)
 
 -----------
