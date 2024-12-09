@@ -48,10 +48,10 @@ Watch this space for updates!
 
 ### GitTogether Mumbai - 7th December 2024
 
-- [Event Link](https://www.meetup.com/gittogether-mumbai/events/304678912/)
+- [Event Link](https://www.meetup.com/gittogether-mumbai/events/304771656/)
 - [Event Resources](./GitTogether%20Mumbai%202024-12-07)
 
-[![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304678912/)
+[![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/    )
 
 ### GitTogether Mumbai - 16th November 2024
 

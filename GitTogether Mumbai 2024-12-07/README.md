@@ -1,6 +1,6 @@
 # GitTogether Mumbai #5
 
-[![December 2024 Event](/assets/2024-12-06.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/)
+[![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/)
 
 ## Agenda
 
