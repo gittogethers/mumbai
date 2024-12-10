@@ -6,7 +6,7 @@
 
 - 2:00 to 2:05 PM: Welcome Note
 - 2.05 to 2.45 PM: **Branch Previews and Beyond: Deploying React Apps with Cloudflare Pages** by [Rudra Narayan Gupta](https://github.com/Rudra370), Head of Engineering, GrowMeOrganic **Slides**
-- 2:45 to 3:05 PM: **AI-Powered Development: Harnessing Artificial Intelligence to Transform App Innovation** by [Prashant Dalai](https://github.com/prdalai), Cloud Engineer at HTCD **Slides**
+- 2:45 to 3:05 PM: **AI-Powered Development: Harnessing Artificial Intelligence to Transform App Innovation** by [Prashant Dalai](https://github.com/prdalai), SDE 2, Direction Software LLP [Slides](https://www.canva.com/design/DAGYkkyTMNQ/F_p4pfqmEjP_Z3oNJBAXAA/edit?utm_content=DAGYkkyTMNQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 3:10 to 3:30 PM: **Break and Networking**
 - 4:00 to 4.30 PM: **Season of AI - Prompt Crafting & GitHub Universe 2024 - Recap** by [Augustine Correa](https://github.com/indcoder), Microsoft MVP for Developer Technologies & AI Platform [Slides](../assets/prompt.crafting.techniques.github.copilot.dec24mtp.pdf)
 - 4.45 to 5.00 PM: Spotlight - [Visage](https://github.com/HackerspaceMumbai/Visage)
