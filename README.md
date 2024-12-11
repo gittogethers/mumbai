@@ -40,7 +40,15 @@ Join us in shaping the future of software development and connecting with Mumbai
 
 ### GitTogether Mumbai - 18th January 2025
 
-Watch this space for updates!
+[![January 2025 Event](/assets/2025-01-18.jpg)](https://www.meetup.com/gittogether-mumbai)
+
+Agenda and registrations will be opened once the CfS closes on 7th Jan 2025 6.00 pm IST. We are looking forward to your session proposals 👇!
+
+CfS: [gh.io/cfs](https://gh.io/cfs)
+
+Community Spotlight: [gh.io/spotlight](https://gh.io/spotlight)
+
+Please share the above links with your friends and colleagues who might be interested in speaking or showcasing their projects. 🙏
 
 -------------
 
