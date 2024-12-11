@@ -66,7 +66,7 @@ Please share the above links with your friends and colleagues who might be inter
 - [Event Link](https://www.meetup.com/gittogether-mumbai/events/304195856)
 - [Event Resources](./GitTogether%20Mumbai%202024-11-16)
 
-[![November 2024 Event](/assets/2024-11-16.jpg
+[![November 2024 Event](/assets/2024-11-16.jpg)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
 )](https://www.meetup.com/gittogether-mumbai/events/303564188/)
 
 ### GitTogether Mumbai - 5th October 2024
