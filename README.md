@@ -17,7 +17,7 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## Community Leader
 
-<img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP
+<img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP for Developer Technologies & AI Platform
 
 -------------
 
@@ -42,11 +42,11 @@ Join us in shaping the future of software development and connecting with Mumbai
 
 [![January 2025 Event](/assets/2025-01-18.jpg)](https://www.meetup.com/gittogether-mumbai)
 
-Agenda and registrations will be opened once the CfS closes on 7th Jan 2025 6.00 pm IST. We are looking forward to your session proposals 👇!
+Agenda and registrations will open once the CfS closes on 7th Jan 2025 6.00 pm IST. We are looking forward to your session proposals 👇!
 
-CfS: [gh.io/cfs](https://gh.io/cfs)
+📢CfS: [gh.io/cfs](https://gh.io/cfs)
 
-Community Spotlight: [gh.io/spotlight](https://gh.io/spotlight)
+💡Community Spotlight for #OSS projects: [gh.io/spotlight](https://gh.io/spotlight)
 
 Please share the above links with your friends and colleagues who might be interested in speaking or showcasing their projects. 🙏
 
@@ -66,14 +66,15 @@ Please share the above links with your friends and colleagues who might be inter
 - [Event Link](https://www.meetup.com/gittogether-mumbai/events/304195856)
 - [Event Resources](./GitTogether%20Mumbai%202024-11-16)
 
-[![September 2024 Event](/assets/2024-10-05.png)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
+[![November 2024 Event](/assets/2024-11-16.jpg
+)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
 
 ### GitTogether Mumbai - 5th October 2024
 
 - [Event Link](https://www.meetup.com/gittogether-mumbai/events/303564188/)
 - [Event Resources](./GitTogether%20Mumbai%202024-10-05)
 
-[![September 2024 Event](/assets/2024-10-05.png)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
+[![October 2024 Event](/assets/2024-10-05.png)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
 
 ### GitTogether Mumbai - 31st August 2024
 
