@@ -32,7 +32,7 @@ Are you passionate about open-source development and have a project you'd love t
 ## Contact
 
 - For any queries about past or upcoming events, please contact community leaders or volunteers.
-- For all other inquiries, please drop us an [email](meetups@github.com) 
+- For all other inquiries, please drop us an email at [meetups@github.com](mailto:meetups@github.com)
 
 Join us in shaping the future of software development and connecting with Mumbai's brightest minds in technology!
 
@@ -45,12 +45,12 @@ Join us in shaping the future of software development and connecting with Mumbai
 #### Agenda
 
 - 2:00 to 2:05 PM: Welcome Note
-- 2.05 to 2.45 PM: Streamlining PHP Development with GitHub Workflows by [Malay Ladu](https://github.com/malayladu), Fullstack Engineer
+- 2:05 to 2:45 PM: Streamlining PHP Development with GitHub Workflows by [Malay Lad](https://github.com/malayladu), Fullstack Engineer
 - 2:45 to 3:05 PM: Community Spotlight: Larasonic by [Pushpak Chhajed](https://github.com/pushpak1300), Software Engineer
 - 3:10 to 3:30 PM: Break and Networking
 - 3:40 to 5.00 PM: Season of AI (Season 3) + GitHub Copilot Free Workshop by [Augustine Correa](https://github.com/indcoder), Microsoft MVP for Developer Technologies & AI Platform
 
- 🔗 Registration - https://gh.io/meetups/reg
+ 🔗 [Registration Link](https://gh.io/meetups/reg)
   
  Rolling confirmation will begin on 3rd February at 5.00pm IST and complete by 6th Feb 9.00pm IST.
 
@@ -68,7 +68,7 @@ Please share the above links with your friends and colleagues who might be inter
 
 ### GitTogether Mumbai - 7th December 2024
 
-- [Event Link](https://www.meetup.com/gixttogether-mumbai/events/304771656/)
+- [Event Link](https://www.meetup.com/gittogether-mumbai/events/304771656/)
 - [Event Resources](./GitTogether%20Mumbai%202024-12-07)
 
 [![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/    )
