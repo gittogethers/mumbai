@@ -32,19 +32,31 @@ Are you passionate about open-source development and have a project you'd love t
 ## Contact
 
 - For any queries about past or upcoming events, please contact community leaders or volunteers.
-- For all other inquiries, please drop us an email at meetups@github.com
+- For all other inquiries, please drop us an [email](meetups@github.com) 
 
 Join us in shaping the future of software development and connecting with Mumbai's brightest minds in technology!
 
 ## Upcoming Events
 
-### GitTogether Mumbai - 18th January 2025
+### GitTogether Mumbai - 8th February 2025
 
-[![January 2025 Event](/assets/2025-01-18.jpg)](https://www.meetup.com/gittogether-mumbai)
+[![February 2025 Event](/assets/2025-02-08_final.png)](https://www.meetup.com/gittogether-mumbai)
 
-Agenda and registrations will open once the CfS closes on 7th Jan 2025 6.00 pm IST. We are looking forward to your session proposals 👇!
+#### Agenda
 
-📢CfS: [gh.io/cfs](https://gh.io/cfs)
+- 2:00 to 2:05 PM: Welcome Note
+- 2.05 to 2.45 PM: Streamlining PHP Development with GitHub Workflows by [Malay Ladu](https://github.com/malayladu), Fullstack Engineer
+- 2:45 to 3:05 PM: Community Spotlight: Larasonic by [Pushpak Chhajed](https://github.com/pushpak1300), Software Engineer
+- 3:10 to 3:30 PM: Break and Networking
+- 3:40 to 5.00 PM: Season of AI (Season 3) + GitHub Copilot Free Workshop by [Augustine Correa](https://github.com/indcoder), Microsoft MVP for Developer Technologies & AI Platform
+
+ 🔗 Registration - https://gh.io/meetups/reg
+  
+ Rolling confirmation will begin on 3rd February at 5.00pm IST and complete by 6th Feb 9.00pm IST.
+
+If you want to speak at our upcoming events, please submit your session proposal:
+
+📢Call for Sessions[CfS]: [gh.io/cfs](https://gh.io/cfs)
 
 💡Community Spotlight for #OSS projects: [gh.io/spotlight](https://gh.io/spotlight)
 
@@ -56,7 +68,7 @@ Please share the above links with your friends and colleagues who might be inter
 
 ### GitTogether Mumbai - 7th December 2024
 
-- [Event Link](https://www.meetup.com/gittogether-mumbai/events/304771656/)
+- [Event Link](https://www.meetup.com/gixttogether-mumbai/events/304771656/)
 - [Event Resources](./GitTogether%20Mumbai%202024-12-07)
 
 [![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/    )
