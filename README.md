@@ -50,6 +50,12 @@ Join us in shaping the future of software development and connecting with Mumbai
 - 3:10 to 3:30 PM: Break and Networking
 - 3:40 to 5.00 PM: Season of AI (Season 3) + GitHub Copilot Free Workshop by [Augustine Correa](https://github.com/indcoder), Microsoft MVP for Developer Technologies & AI Platform
 
+Find all pictures here: https://www.meetup.com/gittogether-mumbai/photos/34838202/
+
+[Slides](../assets/2025-02-08_slides.pdf)
+
+[Additional Resources](../assets/2025-02-08_resources.pdf)
+
  🔗 [Registration Link](https://gh.io/meetups/reg)
   
  Rolling confirmation will begin on 3rd February at 5.00pm IST and complete by 6th Feb 9.00pm IST.
