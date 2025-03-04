@@ -1,5 +1,3 @@
-# GitTogether Mumbai
-
 [![image](/assets/cover-image.png)](https://www.meetup.com/gittogether-mumbai)
 
 <br>
@@ -8,6 +6,8 @@ Welcome to **GitTogether Mumbai** – the ultimate gathering for developers in a
 
 Join us to engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level.
 
+## Upcoming Events
+
 [![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-mumbai)
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Mumbai group](https://www.meetup.com/gittogether-mumbai) on Meetup.
@@ -15,11 +15,12 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 - **Become a speaker**: Submit your session proposal at [gh.io/cfs](https://gh.io/cfs)
 - **Showcase your project**: Apply for our Community Spotlight at [gh.io/spotlight](https://gh.io/spotlight)
 
-## Community Leader
+## GitTogether Mumbai Team
 
 <img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP for Developer Technologies & AI Platform
 
--------------
+- For any queries about past or upcoming events, please contact community leaders or volunteers.
+- For all other inquiries, please drop us an email at meetups@github.com
 
 ## Call for Sessions 📢
 
@@ -29,37 +30,27 @@ Are you someone who loves to share your knowledge? Do you have a passion for AI,
 
 Are you passionate about open-source development and have a project you'd love to share? We're looking for developers like you for spotlight at our upcoming GitTogethers. [Submit your projects here](https://gh.io/spotlight).
 
-## Contact
-
-- For any queries about past or upcoming events, please contact community leaders or volunteers.
-- For all other inquiries, please drop us an email at [meetups@github.com](mailto:meetups@github.com)
-
 Join us in shaping the future of software development and connecting with Mumbai's brightest minds in technology!
-
-## Upcoming Events
-
-[Vote](https://github.com/gittogethers/mumbai/discussions/14) your date preference for the March 2025 GitTogether Mumbai event.
-
-Polling closes on 15th February 2025.
-
--------------
 
 ## Past Events
 
 ### GitTogether Mumbai - 8th February 2025
 
 - [Event Link](https://www.meetup.com/gittogether-mumbai/events/305028963/)
-
 - [Event Resources](./GitTogether%20Mumbai%202025-02-08/)
 
 [![February 2025 Event](assets/2025-02-08.jpg)](https://www.meetup.com/gittogether-mumbai)
+
+-------------
 
 ### GitTogether Mumbai - 7th December 2024
 
 - [Event Link](https://www.meetup.com/gittogether-mumbai/events/304771656/)
 - [Event Resources](./GitTogether%20Mumbai%202024-12-07)
 
-[![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/    )
+[![December 2024 Event](/assets/2024-12-07.jpg)](https://www.meetup.com/gittogether-mumbai/events/304771656/)
+
+-------------
 
 ### GitTogether Mumbai - 16th November 2024
 
@@ -67,7 +58,8 @@ Polling closes on 15th February 2025.
 - [Event Resources](./GitTogether%20Mumbai%202024-11-16)
 
 [![November 2024 Event](/assets/2024-11-16.jpg)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
-)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
+
+-------------
 
 ### GitTogether Mumbai - 5th October 2024
 
@@ -75,6 +67,8 @@ Polling closes on 15th February 2025.
 - [Event Resources](./GitTogether%20Mumbai%202024-10-05)
 
 [![October 2024 Event](/assets/2024-10-05.png)](https://www.meetup.com/gittogether-mumbai/events/303564188/)
+
+-------------
 
 ### GitTogether Mumbai - 31st August 2024
 
