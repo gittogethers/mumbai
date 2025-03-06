@@ -43,6 +43,15 @@ Join us in shaping the future of software development and connecting with Mumbai
 
 -------------
 
+### GitTogether Mumbai - 22nd March 2025
+
+- [Event Link](https://www.meetup.com/gittogether-mumbai/events/305028964/)
+- [Event Resources](./GitTogether%20Mumbai%202025-03-22/)
+
+[![March 2025 Event](assets/2025-03-22.jpg)](https://www.meetup.com/gittogether-mumbai)
+
+-------------
+
 ### GitTogether Mumbai - 7th December 2024
 
 - [Event Link](https://www.meetup.com/gittogether-mumbai/events/304771656/)
