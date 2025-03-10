@@ -8,6 +8,11 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## Upcoming Events
 
+### GitTogether Mumbai - 22nd March 2025
+
+[![March 2025 Event](/assets/2025-03-22.jpg)](https://www.meetup.com/gittogether-mumbai/events/306569732/)
+
+
 [![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-mumbai)
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Mumbai group](https://www.meetup.com/gittogether-mumbai) on Meetup.
@@ -17,7 +22,9 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## GitTogether Mumbai Team
 
-<img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP for Developer Technologies & AI Platform
+| [Community Leader](https://github.com/gittogethers/community-leaders) |
+|:---:|
+| <img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP for Developer Technologies & AI Platform |
 
 - For any queries about past or upcoming events, please contact community leaders or volunteers.
 - For all other inquiries, please drop us an email at meetups@github.com
