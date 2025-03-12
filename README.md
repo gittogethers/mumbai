@@ -21,7 +21,9 @@ Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) t
 
 ## GitTogether Mumbai Team
 
-<img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP for Developer Technologies & AI Platform
+| [Community Leader](https://github.com/gittogethers/community-leaders) |
+|:---:|
+| <img src="https://github.com/indcoder.png" width="80" height="80" style="border-radius: 50%;" alt="Augustine Correa"><br>**[Augustine Correa](https://github.com/indcoder)**<br>Microsoft MVP for Developer Technologies & AI Platform |
 
 - For any queries about past or upcoming events, please contact community leaders or volunteers.
 - For all other inquiries, please drop us an email at meetups@github.com
@@ -44,6 +46,15 @@ Join us in shaping the future of software development and connecting with Mumbai
 - [Event Resources](./GitTogether%20Mumbai%202025-02-08/)
 
 [![February 2025 Event](assets/2025-02-08.jpg)](https://www.meetup.com/gittogether-mumbai)
+
+-------------
+
+### GitTogether Mumbai - 22nd March 2025
+
+- [Event Link](https://www.meetup.com/gittogether-mumbai/events/305028964/)
+- [Event Resources](./GitTogether%20Mumbai%202025-03-22/)
+
+[![March 2025 Event](assets/2025-03-22.jpg)](https://www.meetup.com/gittogether-mumbai)
 
 -------------
 
