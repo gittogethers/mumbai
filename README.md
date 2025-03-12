@@ -8,6 +8,10 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## Upcoming Events
 
+- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/306569732/) on 22nd March 2025
+
+Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
+
 [![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-mumbai)
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Mumbai group](https://www.meetup.com/gittogether-mumbai) on Meetup.
